@@ -1,0 +1,12 @@
+name: Anime AV1 Tier 3
+description: https://discord.com/channels/992019264959676448/1354519513667997766/1409491900137865288
+tags:
+- Anime
+- Group Tier
+conditions:
+- name: Anime AV1 Tier 3
+  negate: false
+  pattern: Anime AV1 Tier 3
+  required: true
+  type: release_title
+tests: []
